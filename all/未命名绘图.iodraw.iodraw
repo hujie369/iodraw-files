@@ -72,7 +72,7 @@
           <mxGeometry x="280" y="544.75" width="75.25" height="75.25" as="geometry" />
         </mxCell>
         <mxCell id="LQnV7_M7sIArXiF3nEcW-25" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;自动驾驶&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;应用场景&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="630" width="100" height="30" as="geometry" />
+          <mxGeometry x="96.71000000000001" y="630" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LQnV7_M7sIArXiF3nEcW-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -84,7 +84,10 @@
           <mxGeometry x="195" y="540" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LQnV7_M7sIArXiF3nEcW-31" value="" style="shape=mxgraph.signs.travel.driving_tour;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="110" y="540" width="73.41" height="79" as="geometry" />
+          <mxGeometry x="115" y="550" width="63.41" height="68.24" as="geometry" />
+        </mxCell>
+        <mxCell id="LQnV7_M7sIArXiF3nEcW-32" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;图像输入&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="205" y="550" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
