@@ -7,7 +7,7 @@
         <mxCell id="LQnV7_M7sIArXiF3nEcW-1" value="" style="image;html=1;image=img/lib/clip_art/general/Earth_globe_128x128.png" vertex="1" parent="1">
           <mxGeometry x="280" y="420" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LQnV7_M7sIArXiF3nEcW-2" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LQnV7_M7sIArXiF3nEcW-2" value="互联网" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="450" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
