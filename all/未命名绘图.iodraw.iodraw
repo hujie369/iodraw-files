@@ -65,6 +65,9 @@
         <mxCell id="LQnV7_M7sIArXiF3nEcW-21" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Laptop_Wireless.svg;" vertex="1" parent="1">
           <mxGeometry x="277.47" y="549.5" width="85.06" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="LQnV7_M7sIArXiF3nEcW-22" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="50" y="434" width="50" height="42" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
