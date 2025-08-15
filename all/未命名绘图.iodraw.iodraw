@@ -39,7 +39,7 @@
         <mxCell id="9fHWEZDIZKtUZKASwEXw-13" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="500" y="585" width="80" height="795" as="geometry" />
         </mxCell>
-        <mxCell id="9fHWEZDIZKtUZKASwEXw-14" value="算法&lt;div&gt;落地&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9fHWEZDIZKtUZKASwEXw-14" value="算法&lt;div style=&quot;font-size: 18px;&quot;&gt;落地&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="730" y="820" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
