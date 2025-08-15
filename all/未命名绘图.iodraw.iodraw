@@ -62,14 +62,11 @@
         <mxCell id="LQnV7_M7sIArXiF3nEcW-21" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Laptop_Wireless.svg;" vertex="1" parent="1">
           <mxGeometry x="277.47" y="549.5" width="85.06" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="LQnV7_M7sIArXiF3nEcW-22" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
-          <mxGeometry x="121" y="572" width="56.55" height="47.5" as="geometry" />
-        </mxCell>
         <mxCell id="LQnV7_M7sIArXiF3nEcW-23" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Batch_AI.svg;" vertex="1" parent="1">
           <mxGeometry x="118.84" y="311" width="40.32" height="56" as="geometry" />
         </mxCell>
         <mxCell id="LQnV7_M7sIArXiF3nEcW-24" value="" style="image;html=1;image=img/lib/clip_art/networking/Ip_Camera_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="70" y="630" width="80" height="80" as="geometry" />
+          <mxGeometry x="118.84" y="549.5" width="65.5" height="65.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
