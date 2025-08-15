@@ -107,8 +107,8 @@
         <mxCell id="LQnV7_M7sIArXiF3nEcW-36" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Batch_AI.svg;" vertex="1" parent="1">
           <mxGeometry x="564.84" y="311" width="40.32" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="LQnV7_M7sIArXiF3nEcW-37" value="&lt;i&gt;部署&lt;/i&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.52;dx=27.45;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="550" y="410" width="80" height="30" as="geometry" />
+        <mxCell id="LQnV7_M7sIArXiF3nEcW-38" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="400" width="70" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
