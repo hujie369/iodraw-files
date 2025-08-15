@@ -69,7 +69,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LQnV7_M7sIArXiF3nEcW-24" value="" style="image;html=1;image=img/lib/clip_art/networking/Ip_Camera_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="118.84" y="554" width="65.5" height="65.5" as="geometry" />
+          <mxGeometry x="280" y="544.75" width="72.75" height="72.75" as="geometry" />
         </mxCell>
         <mxCell id="LQnV7_M7sIArXiF3nEcW-25" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;图像采集设备&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="630" width="100" height="30" as="geometry" />
