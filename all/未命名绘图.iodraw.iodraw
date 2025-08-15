@@ -26,7 +26,7 @@
           <mxGeometry x="104" y="270" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LQnV7_M7sIArXiF3nEcW-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;边缘设备&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="285" y="630" width="70" height="30" as="geometry" />
+          <mxGeometry x="600" y="462.63" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LQnV7_M7sIArXiF3nEcW-12" value="&lt;i&gt;部署&lt;/i&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.52;dx=27.45;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="190" y="324" width="80" height="30" as="geometry" />
@@ -69,7 +69,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LQnV7_M7sIArXiF3nEcW-24" value="" style="image;html=1;image=img/lib/clip_art/networking/Ip_Camera_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="280" y="544.75" width="75.25" height="75.25" as="geometry" />
+          <mxGeometry x="517.38" y="440" width="75.25" height="75.25" as="geometry" />
         </mxCell>
         <mxCell id="LQnV7_M7sIArXiF3nEcW-25" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;应用场景&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="96.71000000000001" y="630" width="100" height="30" as="geometry" />
