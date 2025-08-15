@@ -37,10 +37,10 @@
           <mxGeometry x="600" y="580" width="90" height="800" as="geometry" />
         </mxCell>
         <mxCell id="9fHWEZDIZKtUZKASwEXw-13" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="500" y="585" width="80" height="795" as="geometry" />
+          <mxGeometry x="500" y="580" width="80" height="800" as="geometry" />
         </mxCell>
         <mxCell id="9fHWEZDIZKtUZKASwEXw-14" value="算法&lt;div style=&quot;font-size: 18px;&quot;&gt;落地&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="530" y="945" width="70" height="70" as="geometry" />
+          <mxGeometry x="530" y="910" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
