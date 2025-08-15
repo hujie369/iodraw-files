@@ -110,6 +110,12 @@
         <mxCell id="LQnV7_M7sIArXiF3nEcW-38" value="&lt;i&gt;本地&lt;/i&gt;&lt;div&gt;&lt;i&gt;部署&lt;/i&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.39;dx=20.24;direction=south;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="525.16" y="367" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="LQnV7_M7sIArXiF3nEcW-39" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;边缘设备&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="472.63" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LQnV7_M7sIArXiF3nEcW-40" value="" style="image;html=1;image=img/lib/clip_art/networking/Ip_Camera_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="527.38" y="450" width="75.25" height="75.25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
