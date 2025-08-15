@@ -28,8 +28,8 @@
         <mxCell id="LQnV7_M7sIArXiF3nEcW-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;边缘设备&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="284" y="640" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LQnV7_M7sIArXiF3nEcW-12" value="部署" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.52;dx=27.45;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="330" width="90" height="30" as="geometry" />
+        <mxCell id="LQnV7_M7sIArXiF3nEcW-12" value="部署" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.52;dx=27.45;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="490" y="320" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
