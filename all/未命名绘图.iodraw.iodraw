@@ -65,6 +65,11 @@
         <mxCell id="LQnV7_M7sIArXiF3nEcW-23" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Batch_AI.svg;" vertex="1" parent="1">
           <mxGeometry x="118.84" y="311" width="40.32" height="56" as="geometry" />
         </mxCell>
+        <mxCell id="LQnV7_M7sIArXiF3nEcW-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="LQnV7_M7sIArXiF3nEcW-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="570.1379310344828" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LQnV7_M7sIArXiF3nEcW-24" value="" style="image;html=1;image=img/lib/clip_art/networking/Ip_Camera_128x128.png" vertex="1" parent="1">
           <mxGeometry x="118.84" y="554" width="65.5" height="65.5" as="geometry" />
         </mxCell>
