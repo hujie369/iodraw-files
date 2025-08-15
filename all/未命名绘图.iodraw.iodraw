@@ -32,7 +32,7 @@
           <mxGeometry x="280" y="546" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="LQnV7_M7sIArXiF3nEcW-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;边缘设备&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="284" y="640" width="70" height="30" as="geometry" />
+          <mxGeometry x="285" y="630" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LQnV7_M7sIArXiF3nEcW-12" value="&lt;i&gt;部署&lt;/i&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.52;dx=27.45;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="190" y="324" width="80" height="30" as="geometry" />
@@ -64,6 +64,9 @@
         </mxCell>
         <mxCell id="LQnV7_M7sIArXiF3nEcW-20" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;响应&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="510" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LQnV7_M7sIArXiF3nEcW-21" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Laptop_Wireless.svg;" vertex="1" parent="1">
+          <mxGeometry x="90" y="546" width="57.599999999999994" height="47.400000000000006" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
