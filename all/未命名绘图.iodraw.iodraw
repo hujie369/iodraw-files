@@ -69,7 +69,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LQnV7_M7sIArXiF3nEcW-24" value="" style="image;html=1;image=img/lib/clip_art/networking/Ip_Camera_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="280" y="544.75" width="72.75" height="72.75" as="geometry" />
+          <mxGeometry x="280" y="544.75" width="75.25" height="75.25" as="geometry" />
         </mxCell>
         <mxCell id="LQnV7_M7sIArXiF3nEcW-25" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;图像采集设备&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="630" width="100" height="30" as="geometry" />
@@ -82,6 +82,9 @@
         </mxCell>
         <mxCell id="LQnV7_M7sIArXiF3nEcW-30" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;图像输入&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="195" y="540" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LQnV7_M7sIArXiF3nEcW-31" value="" style="shape=mxgraph.signs.travel.driving_tour;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="93" y="531" width="92" height="99" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
