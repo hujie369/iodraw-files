@@ -64,8 +64,8 @@
         </mxCell>
         <mxCell id="LQnV7_M7sIArXiF3nEcW-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="264.1" y="570" as="targetPoint" />
-            <mxPoint x="195.9099999999999" y="570.375" as="sourcePoint" />
+            <mxPoint x="263.19" y="580" as="targetPoint" />
+            <mxPoint x="194.99999999999991" y="580.375" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LQnV7_M7sIArXiF3nEcW-24" value="" style="image;html=1;image=img/lib/clip_art/networking/Ip_Camera_128x128.png" vertex="1" parent="1">
@@ -81,7 +81,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LQnV7_M7sIArXiF3nEcW-30" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;图像输入&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="195" y="540" width="70" height="30" as="geometry" />
+          <mxGeometry x="195" y="530" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LQnV7_M7sIArXiF3nEcW-31" value="" style="shape=mxgraph.signs.travel.driving_tour;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="115" y="550" width="63.41" height="68.24" as="geometry" />
