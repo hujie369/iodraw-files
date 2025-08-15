@@ -86,8 +86,8 @@
         <mxCell id="LQnV7_M7sIArXiF3nEcW-31" value="" style="shape=mxgraph.signs.travel.driving_tour;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="115" y="550" width="63.41" height="68.24" as="geometry" />
         </mxCell>
-        <mxCell id="LQnV7_M7sIArXiF3nEcW-32" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;图像输入&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="205" y="550" width="70" height="30" as="geometry" />
+        <mxCell id="LQnV7_M7sIArXiF3nEcW-32" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;处理结果&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="195" y="600" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
